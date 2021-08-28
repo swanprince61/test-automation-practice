@@ -1,0 +1,13 @@
+{
+  "name": "buggy-justtestit-org-test-automation",
+  "description": "Test Automation with Newman",
+  "version": "1.0.0",
+  "dependencies": {
+    "newman": "^5.2.4"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
