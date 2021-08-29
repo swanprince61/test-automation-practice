@@ -3,7 +3,7 @@
 ## Popular Make vote count is one count higher than actual votes
 
 ### Replication steps
-1. Go to the dashboard screen, check the vote count of Popular (as of Sun 29/Aug 7:55pm, it is 7,103 votes for Lamborghini)
+1. Go to the dashboard screen, check the vote count of Popular
 2. Drill down to Popular Make by clicking on Popular Make image
 3. Sum each model's vote counts
 

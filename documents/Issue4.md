@@ -3,17 +3,17 @@
 ## Dashboard page link does not work on Make's model list page
 
 ### Replication steps
-1. From dashboard, drill down to Popular Make page by clicking the image (Lamborghini make page)
-2. Click on "Buugy Rating" on top left corner
+1. From the dashboard, drill down to Popular Make page by clicking the image (Lamborghini make page)
+2. Click on "Buggy Rating" on the top left corner
 
 ### Expected result
 * The user should go back to the dashboard screen
 
 ### Current result
-* The user stays in the same page
+* The user stays on the same page
 
 ### Further Investigation
-* On Make detail screen, Buggy Rating hyperlink is changed to `/broken`. This is UI bug which needs to be fixed.
+* On Make detail screen, Buggy Rating hyperlink is changed to `/broken`. This is a UI bug that needs to be fixed.
 
 On Make detail screen, Buggy Rating hyperlink is to:
 ```
