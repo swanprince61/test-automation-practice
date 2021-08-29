@@ -15,6 +15,10 @@ This project is to implement an approach to test the website buggy.justtestit.or
 ```
 npm install
 ```
+> On Windows, installing newman on global level is also required
+```
+npm install -g newman
+```
 
 ## Running the test
 
