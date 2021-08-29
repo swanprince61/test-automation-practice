@@ -57,16 +57,12 @@ These critical functionalities were tested by automated testing.
    * 6 minor
 
 ### Detailed test result
+* [Issue List](./IssueList.md)
 * [Test Result - Google Spreadsheet](https://docs.google.com/spreadsheets/d/1Q3gF7bouFEos2vCjT5rP6gCY0FsSpFSv0a8Cp8DL39M/edit?usp=sharing)
     * This contains:
        * Automated Test result
        * Manual Test result
        * Exploratory Test charter
-* [Issue List - Google Spreadsheet](https://docs.google.com/spreadsheets/d/1wQ7vfWdHb8VA9Orgrr1lm8XHj6jZQmC5SCcxfTlXkqs/edit?usp=sharing)
-    * This contains:
-       * Issue list
-       * Issue details
-
 
 ## Exclusion
 This test practice focus on functional testing and these non-functional tests were excluded.

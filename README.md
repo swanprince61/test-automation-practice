@@ -1,12 +1,12 @@
 # Test Automation of buggy.justtestit.org
 
-This project is to implement an approach to test the website buggy.justtestit.org. API testing is automated with Postman which provides running APIs with different parameters and validates the result with Vanilla JavaScript functions.
+This project is to implement an approach to test the website buggy.justtestit.org. API testing is automated with Postman which provides running APIs with different parameters and validates the result with JavaScript functions.
 
 * Links to other documents
    * [Test Approach](./documents/TestApproach.md)
+   * [Issue List](./documents/IssueList.md)
    * [Test Result - Google Spreadsheet](https://docs.google.com/spreadsheets/d/1Q3gF7bouFEos2vCjT5rP6gCY0FsSpFSv0a8Cp8DL39M/edit?usp=sharing)
-   * [Issue List - Google Spreadsheet](https://docs.google.com/spreadsheets/d/1wQ7vfWdHb8VA9Orgrr1lm8XHj6jZQmC5SCcxfTlXkqs/edit?usp=sharing)
-
+   
 ## Install
 
 1. Install [npm](https://www.npmjs.com/package/npm)
