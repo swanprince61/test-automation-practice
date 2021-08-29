@@ -44,13 +44,13 @@ These critical functionalities were tested by automated testing.
 ## Test Result
 
 ### Test Summary
-* API test (total 19 test cases)
-   * 17 success
+* API test (total 17 test cases)
+   * 15 success
    * 2 failed  
 
-* UI test (total xx test cases)
-   * xx success
-   * x failed
+* UI test (total 20 test case runs)
+   * 17 success
+   * 3 failed
 
 * Total 11 issues were found during testing
    * 5 major
@@ -58,7 +58,14 @@ These critical functionalities were tested by automated testing.
 
 ### Detailed test result
 * [Test Result - Google Spreadsheet](https://docs.google.com/spreadsheets/d/1Q3gF7bouFEos2vCjT5rP6gCY0FsSpFSv0a8Cp8DL39M/edit?usp=sharing)
+    * This contains:
+       * Automated Test result
+       * Manual Test result
+       * Exploratory Test charter
 * [Issue List - Google Spreadsheet](https://docs.google.com/spreadsheets/d/1wQ7vfWdHb8VA9Orgrr1lm8XHj6jZQmC5SCcxfTlXkqs/edit?usp=sharing)
+    * This contains:
+       * Issue list
+       * Issue details
 
 
 ## Exclusion
