@@ -53,8 +53,8 @@ These critical functionalities were tested by automated testing.
    * 3 failed
 
 * Total 11 issues were found during testing
-   * 5 major
-   * 6 minor
+   * 4 major
+   * 7 minor
 
 ### Detailed test result
 * [Issue List](./IssueList.md)
